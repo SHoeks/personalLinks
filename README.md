@@ -1,2 +1,1 @@
-### Home page with personal links
-[see](shoeks.github.io/personalLinks/)
+[Home page with personal links](shoeks.github.io/personalLinks/)
